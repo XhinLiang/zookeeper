@@ -10,10 +10,10 @@ zookeeper
 
 [Watcher例子的类图](https://raw.github.com/llohellohe/zookeeper/master/docs/class-java-example.png)
 
-####二.O'Reilly.ZooKeeper.Distributed process coordination.2013笔记
+#### 二.O'Reilly.ZooKeeper.Distributed process coordination.2013笔记
 [按章节笔记](https://github.com/llohellohe/llohellohe.github.com/tree/master/readers/ZooKeeper)
 
-####三.深入
+#### 三.深入
 [分布式一致性算法Paxos](https://github.com/llohellohe/llohellohe.github.com/blob/master/_posts/2014-01-04-paxos.md)
 
 [源代码解读之ZooKeeper](https://github.com/llohellohe/llohellohe.github.com/blob/master/_posts/2014-01-04-read-zookeeper-source-code-zookeeper.md)
